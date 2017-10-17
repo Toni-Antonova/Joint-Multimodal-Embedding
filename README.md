@@ -3,7 +3,7 @@ Keras implementation of a Siamese Neural Network for Joint Multimodal Text-Image
 
 *Tested with a Tensorflow backend*
 
-This embedding network was used in a larger deep learning project aimed at using GANs for to generate video from text descriptions. Check out my [blogpost](https://antonia.space/text-to-video-generation/) on the results.
+This embedding network was used in a larger deep learning project aimed at using GANs to generate video from text descriptions. Check out my [blogpost](https://antonia.space/text-to-video-generation/) on the results.
 
 #### Tools Used:
 Python 3  
